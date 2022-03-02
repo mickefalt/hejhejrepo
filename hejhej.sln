@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hejhej-app", "hejhej-app\hejhej-app.csproj", "{740D37BC-DE07-4B37-9393-0F65D0EE8E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hejhej-app-tests", "hejhej-app-tests\hejhej-app-tests.csproj", "{EA3870C2-39BA-4E53-B82B-AFABC4840D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740D37BC-DE07-4B37-9393-0F65D0EE8E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740D37BC-DE07-4B37-9393-0F65D0EE8E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740D37BC-DE07-4B37-9393-0F65D0EE8E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740D37BC-DE07-4B37-9393-0F65D0EE8E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3870C2-39BA-4E53-B82B-AFABC4840D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3870C2-39BA-4E53-B82B-AFABC4840D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3870C2-39BA-4E53-B82B-AFABC4840D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3870C2-39BA-4E53-B82B-AFABC4840D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
